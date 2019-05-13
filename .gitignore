@@ -1,0 +1,16 @@
+*ipynb_checkpoints
+*__pycache__
+Data/css/CSDR1/photometry.csv
+Data/css/CSDR1/catalog-original.csv
+Data/css-sdss/spectra
+Data/css-sdss/ts
+Data/css-sdss/X-match/Batches
+Data/css-sdss/X-match/chromedriver
+Data/features/VAE-sdss/data
+Data/features/VAE-sdss/Exp*/models
+Data/features/VAE-sdss/Exp*/features
+Data/sdss/VAE-dataset/spectra
+Selection/models
+Selection/*.csv
+Selection/db.npy
+*DS_Store

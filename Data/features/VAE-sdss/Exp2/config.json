@@ -1,0 +1,1 @@
+{"train": true, "load_weights": false, "restore_epoch": 0, "epochs": 100, "latent_dim": 5, "rate": 0.01, "original_dim": 3794, "batch_size": 32}
