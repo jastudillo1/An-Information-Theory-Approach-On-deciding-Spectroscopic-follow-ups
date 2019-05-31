@@ -10,6 +10,7 @@ Data/features/VAE-sdss/data
 Data/features/VAE-sdss/Exp*/models
 Data/features/VAE-sdss/Exp*/features
 Data/sdss/VAE-dataset/spectra
+Data-upload
 Selection/models
 Selection/*.csv
 Selection/db.npy

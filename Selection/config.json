@@ -1,1 +1,1 @@
-{"spectra features": ["spec2", "spec5"], "FATS keys": ["PeriodLS", "Freq1_harmonics_amplitude_0", "MedianAbsDev", "Q31", "FluxPercentileRatioMid35", "FluxPercentileRatioMid50", "Freq1_harmonics_amplitude_1"], "gmm_components": 6}
+{"spectra features": ["spec2", "spec5"], "FATS keys": ["PeriodLS", "Freq1_harmonics_amplitude_0", "MedianAbsDev", "Q31", "FluxPercentileRatioMid35", "FluxPercentileRatioMid50", "Freq1_harmonics_amplitude_1"], "gmm_components": 20}
