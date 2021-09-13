@@ -6,5 +6,5 @@ Classification and characterization of variable phenomena and transient phenomen
 
 **Keywords**: Computational methods (1965); Astronomy data analysis (1858); Astrostatistics tools (1887); Variable stars (1761); Gaussian Mixture Model; Information Theory
 
-<img src="imgs/methodology.jpg" width="400" height="400">
+<img src="imgs/methodology.jpg" width="600" height="600">
 <b>Figure 1. Methodology overview. </b>
