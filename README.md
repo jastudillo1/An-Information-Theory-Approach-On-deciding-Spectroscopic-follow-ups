@@ -4,7 +4,7 @@ Classification and characterization of variable phenomena and transient phenomen
 
 [Full article access](https://iopscience.iop.org/article/10.3847/1538-3881/ab557d)
 
-**Keywords**: Computational methods; Astronomy data analysis; Astrostatistics tools; Variable stars (1761); Gaussian Mixture Model; Information Theory
+**Keywords**: Computational methods; Astronomy data analysis; Astrostatistics tools; Variable stars; Gaussian Mixture Model; Information Theory
 
 <img src="imgs/methodology_low.png" width="800" height="800">
 <b>Figure 1. Methodology overview. </b>
